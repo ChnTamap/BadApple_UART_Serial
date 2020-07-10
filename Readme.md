@@ -1,5 +1,7 @@
 <h1>基于GXCT嵌入式STM32开发板的BadApple个人项目</h1>
 
+![IMG](img.jpg)
+
 # 介绍
 
 一年前(2019.4)参加完蓝桥杯后因个人兴趣做的一个通过UART从PC传输BadApple视频至STM32开发板并显示在LCD上的小项目。
