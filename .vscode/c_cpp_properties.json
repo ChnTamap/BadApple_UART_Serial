@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${workspaceRoot}",
+                "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+                "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+                "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+                "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+                "G:/Program Files/LLVM/include",
+                "G:/Program Files/LLVM/x86_64-w64-mingw32/include",
+                "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=7",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+                    "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+                    "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+                    "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+                    "G:/Program Files/LLVM/include",
+                    "G:/Program Files/LLVM/x86_64-w64-mingw32/include",
+                    "G:/Program Files/LLVM/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
